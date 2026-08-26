@@ -1,6 +1,6 @@
 <ImportExportXml version="9.2.26051.157" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26051.157" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26052.00154">
   <SolutionManifest>
-    <UniqueName>TestPipeline</UniqueName>
+    <UniqueName>TestPipeline-101</UniqueName>
     <LocalizedNames>
       <LocalizedName description="TestPipeline" languagecode="1033" />
     </LocalizedNames>
